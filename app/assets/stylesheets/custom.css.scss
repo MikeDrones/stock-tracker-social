@@ -2,8 +2,27 @@
   display: inline-block;
 }
 #footer {
-  position:absolute;
-  bottom:0;
-  width:100%;
-  height:60px;   /* Height of the footer */
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;   /* Height of the footer */
 }  
+
+/*
+.no-padding {
+  padding: 0 !important;
+}
+
+.left-padding {
+  padding-left: 15px !important;
+}
+
+.logout {
+  padding-left: 0;
+}
+*/
+.container-right {
+  padding-top: 7px;
+}
+
